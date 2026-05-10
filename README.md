@@ -685,7 +685,7 @@ Respond ONLY with a raw JSON object (no markdown fences, no preamble):
                 <div style={{ background:"#FFF3E0", borderRadius:14, padding:"0.9rem", border:"2px solid #FFB300", display:"flex", gap:10, alignItems:"center" }}>
                   <div style={{ fontSize:26 }}>▶️</div>
                   <div>
-                    <div style={{ fontWeight:800, color:"#BF360C", fontSize:12 }}>Platinum Gorilla Triple 001</div>
+                    <div style={{ fontWeight:800, color:"#BF360C", fontSize:12 }}>Prathamgowda0001</div>
                     <div style={{ fontSize:11, color:"#777" }}>YouTube · Karnataka, India</div>
                     <div style={{ fontSize:11, color:"#888" }}>Vlogs · Science · Engineering</div>
                   </div>
