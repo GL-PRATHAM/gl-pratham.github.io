@@ -1,0 +1,96 @@
+{
+  "source": "User-provided LinkedIn post links",
+  "uniquePosts": 18,
+  "posts": [
+    {
+      "id": 1,
+      "url": "https://lnkd.in/p/gF6p7_54",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 2,
+      "url": "https://lnkd.in/p/gMdZ4arr",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 3,
+      "url": "https://lnkd.in/p/gSwD6SsP",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 4,
+      "url": "https://lnkd.in/p/gNtaGT4R",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 5,
+      "url": "https://lnkd.in/p/gjUfDEdp",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 6,
+      "url": "https://lnkd.in/p/gARVVr_9",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 7,
+      "url": "https://lnkd.in/p/gAtWGTWq",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 8,
+      "url": "https://lnkd.in/p/gN_mTVcQ",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 9,
+      "url": "https://lnkd.in/p/gjZSuQ3c",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 10,
+      "url": "https://lnkd.in/p/gHifehN8",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 11,
+      "url": "https://lnkd.in/p/giT8RNth",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 12,
+      "url": "https://lnkd.in/p/g3vp8wGB",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 13,
+      "url": "https://lnkd.in/p/gzERewim",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 14,
+      "url": "https://lnkd.in/p/gUy7HYNU",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 15,
+      "url": "https://lnkd.in/p/g2p9JFqn",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 16,
+      "url": "https://lnkd.in/p/g8MUY-iJ",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 17,
+      "url": "https://lnkd.in/p/gmkihSgT",
+      "status": "pending_post_content"
+    },
+    {
+      "id": 18,
+      "url": "https://lnkd.in/p/g9A5pvYM",
+      "status": "pending_post_content"
+    }
+  ]
+}
