@@ -35,7 +35,7 @@ section{padding:100px 0}.section-head{max-width:780px;margin-bottom:42px}.kicker
 @media(max-width:600px){.gl-deep-dive{padding:72px 0}.gl-process{grid-template-columns:1fr}.gl-process-step{min-height:auto}.gl-case-foot{align-items:flex-start;flex-direction:column}}
 
 /* ===== 2026 editorial redesign ===== */
-@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap');
+
 :root{--ink:#111d2b;--paper:#f1f0eb;--muted:#66717d;--line:#d5d7d4;--cobalt:#2859d8;--brass:#e3b55f;--night:#091523;--max:1240px}
 html{scroll-padding-top:75px}body{background:var(--paper);color:var(--ink);font-family:Manrope,Inter,system-ui,sans-serif;letter-spacing:-.025em}.wrap{width:min(var(--max),calc(100% - 64px))}
 .nav{background:#091523f7;backdrop-filter:blur(16px);border-bottom:1px solid #ffffff20}.navin{height:68px}.brand{font-size:.9rem;letter-spacing:.15em}.brand span{color:var(--brass)}.links{gap:clamp(8px,1.15vw,17px);font:500 .62rem "DM Mono",monospace;text-transform:uppercase;letter-spacing:.03em}.links a{color:#bdc8d4}.links a:hover{color:var(--brass)}
