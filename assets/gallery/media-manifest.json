@@ -1,0 +1,131 @@
+{
+  "note": "One image per certificate PDF page. Original event photographs supplied by GL PRATHAM are preserved visually; only converted to optimised JPEG format.",
+  "certificate_pages": [
+    {
+      "page": 1,
+      "file": "certificates/certificate-01.jpg"
+    },
+    {
+      "page": 2,
+      "file": "certificates/certificate-02.jpg"
+    },
+    {
+      "page": 3,
+      "file": "certificates/certificate-03.jpg"
+    },
+    {
+      "page": 4,
+      "file": "certificates/certificate-04.jpg"
+    },
+    {
+      "page": 5,
+      "file": "certificates/certificate-05.jpg"
+    },
+    {
+      "page": 6,
+      "file": "certificates/certificate-06.jpg"
+    },
+    {
+      "page": 7,
+      "file": "certificates/certificate-07.jpg"
+    },
+    {
+      "page": 8,
+      "file": "certificates/certificate-08.jpg"
+    },
+    {
+      "page": 9,
+      "file": "certificates/certificate-09.jpg"
+    },
+    {
+      "page": 10,
+      "file": "certificates/certificate-10.jpg"
+    },
+    {
+      "page": 11,
+      "file": "certificates/certificate-11.jpg"
+    },
+    {
+      "page": 12,
+      "file": "certificates/certificate-12.jpg"
+    },
+    {
+      "page": 13,
+      "file": "certificates/certificate-13.jpg"
+    },
+    {
+      "page": 14,
+      "file": "certificates/certificate-14.jpg"
+    },
+    {
+      "page": 15,
+      "file": "certificates/certificate-15.jpg"
+    },
+    {
+      "page": 16,
+      "file": "certificates/certificate-16.jpg"
+    },
+    {
+      "page": 17,
+      "file": "certificates/certificate-17.jpg"
+    },
+    {
+      "page": 18,
+      "file": "certificates/certificate-18.jpg"
+    },
+    {
+      "page": 19,
+      "file": "certificates/certificate-19.jpg"
+    },
+    {
+      "page": 20,
+      "file": "certificates/certificate-20.jpg"
+    },
+    {
+      "page": 21,
+      "file": "certificates/certificate-21.jpg"
+    },
+    {
+      "page": 22,
+      "file": "certificates/certificate-22.jpg"
+    },
+    {
+      "page": 23,
+      "file": "certificates/certificate-23.jpg"
+    },
+    {
+      "page": 24,
+      "file": "certificates/certificate-24.jpg"
+    },
+    {
+      "page": 25,
+      "file": "certificates/certificate-25.jpg"
+    },
+    {
+      "page": 26,
+      "file": "certificates/certificate-26.jpg"
+    },
+    {
+      "page": 27,
+      "file": "certificates/certificate-27.jpg"
+    }
+  ],
+  "event_photos": [
+    "IMG_20260127_174754.jpg",
+    "IMG_20260127_174818.jpg",
+    "IMG_20260824_114135.jpg",
+    "IMG_20260906_102852.jpg",
+    "IMG_20260906_130440.jpg",
+    "IMG_20260906_183109.jpg",
+    "IMG_20260910_161000.jpg",
+    "IMG_20260910_172314.jpg",
+    "IMG_20260918_131114.jpg",
+    "IMG_20260918_131408.jpg",
+    "IMG_20260924_104921.jpg",
+    "IMG_20261003_065224.jpg",
+    "IMG_20261015_122230.jpg",
+    "WhatsApp-Image-2026-11-09-at-11.37.13-AM.jpg",
+    "WhatsApp-Image-2026-11-09-at-11.58.02-AM.jpg",
+    "WhatsApp-Image-2026-11-09-at-11.58.02-AM-1.jpg"
+  ]
+}
