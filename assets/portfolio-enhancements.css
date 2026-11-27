@@ -111,3 +111,19 @@ section{padding:112px 0;scroll-margin-top:68px}.section-head{max-width:820px;mar
 .gl-linkedin-section .gl-note{color:#aebfd0}
 @media(max-width:900px){.gl-photo-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.gl-certificate-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.gl-linkedin-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.gl-gallery-section{padding:70px 0}.gl-photo-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.gl-certificate-grid,.gl-linkedin-grid{grid-template-columns:1fr}.gl-photo span{padding:10px}.gl-gallery-card b{font-size:.78rem}}
+
+
+/* GL PRATHAM — subtle moving ownership + learning watermark */
+body::after{
+  content:"GL PRATHAM  •  LEARNING IN SOIL SCIENCE & AI  •  CIVIL ENGINEERING  •  RESEARCH  •  INNOVATION  •  ";
+  position:fixed;left:0;right:0;bottom:0;z-index:1900;pointer-events:none;
+  white-space:nowrap;overflow:hidden;text-align:center;
+  padding:7px 12px;background:rgba(7,19,33,.88);color:#e1bd77;
+  border-top:1px solid rgba(225,189,119,.28);
+  font:500 10px "DM Mono",monospace;letter-spacing:.15em;
+  animation:glLearningDrift 28s linear infinite;
+  backdrop-filter:blur(8px)
+}
+@keyframes glLearningDrift{0%{transform:translateX(0)}50%{transform:translateX(-1.5%)}100%{transform:translateX(0)}}
+@media(prefers-reduced-motion:reduce){body::after{animation:none}}
+body{padding-bottom:28px}
